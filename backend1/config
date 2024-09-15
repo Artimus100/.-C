@@ -1,0 +1,6 @@
+// backend/config/default.json
+{
+    "blockchain"; {
+      "providerUrl"; "http://localhost:8545"
+    }
+  }
